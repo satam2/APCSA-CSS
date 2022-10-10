@@ -8,18 +8,17 @@ body{
   background-color: #d2b48c; 
 }
 
+#content{
+  display: block;
+  margin: auto;
+}
+
 footer{
   text-align: center;
   color: white;
   font-family: "Silkscreen", cursive;
 }
 
-#content{
-  display: block;
-  margin-bottom: 25px;
-  margin-left: auto;
-  margin-right: auto
-}
 
 
 
