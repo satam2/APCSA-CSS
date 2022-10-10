@@ -6,13 +6,13 @@ header{
 
 body{
   background-color: #d2b48c; 
-  text-align: center;
 }
 
 footer{
   text-align: center;
   color: white;
   font-family: "Silkscreen", cursive;
+  margin-top: 20px;
 }
 
 #content{
