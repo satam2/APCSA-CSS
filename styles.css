@@ -1,6 +1,7 @@
 header{
   text-align: center;
   color: white;
+  font-family: "Silkscreen", cursive;
 }
 
 body{
@@ -11,6 +12,7 @@ body{
 footer{
   text-align: center;
   color: white;
+  font-family: "Silkscreen", cursive;
 }
 
 #content{
