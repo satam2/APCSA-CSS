@@ -1,13 +1,16 @@
 header{
   text-align: center;
+  color: white;
 }
 
 body{
+  background-color: #d2b48c; 
   text-align: center;
 }
 
 footer{
   text-align: center;
+  color: white;
 }
 
 #content{
@@ -15,5 +18,6 @@ footer{
   margin-left: auto;
   margin-right: auto
 }
+
 
 
